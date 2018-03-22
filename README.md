@@ -20,8 +20,8 @@ The following Vagrant boxes can be used for generic expirments on the respective
 They contain the core operating system with the minimum configuration required to make Vagrant work, and some of the commonly used tools installed and options configured for easier provisioning. All the other Vagrant boxes below are based on these configurations as well.
 
 - **Windows 10**
-  - **[Enterpise][w10e]**
-  - **[Enterpise with Docker for Windows Community Edition][w10e-docker-ce]**
+  - **[Enterprise][w10e]**
+  - **[Enterprise with Docker for Windows Community Edition][w10e-docker-ce]**
 - **Windows Server 2016**
   - **[Standard][w16s]**
   - **[Standard with Docker for Windows Community Edition][w16s-docker-ce]**
